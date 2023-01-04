@@ -28,7 +28,8 @@
 
 ## Kõik kursuse loengud
 
-- Viidata kõikidele loengutele, mis õppeaines aset leiab kronoloogilises järjekorras
+- [Loeng 9-10.09.2021](/Loengud/loeng1.md)
+- [Loeng 11.10.2023](/Loengud/loeng2.md)
 
 ## Kõik kasutatavad tehnoloogiad ja vastavad tööriistad
 
