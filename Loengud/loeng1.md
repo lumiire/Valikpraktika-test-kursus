@@ -10,7 +10,7 @@
 
 ## Loengu teemad
 
-- linkida/refereerida loengus kasutatavad teemad
+- [Tekst](/teemad/tekst.md)
 
 ## Valikuline: Kasutatavad tehnoloogiad
 
