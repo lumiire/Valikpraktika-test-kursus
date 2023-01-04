@@ -13,7 +13,7 @@
 
 ## Õppeaine lühikirjeldus
 
-- Kursusel olevad teemad, tulevad esimese kohtumise käigus. Need mida õliõpilased soovivad.
+- Enamus kursusel käsitletavad teemad tulevad esimese kohtumise käigus. Need mida üliõpilased soovivad.
 - Tuua välja lingina õppeaine õppekava
 
 ## Õppeaine eesmärgid
