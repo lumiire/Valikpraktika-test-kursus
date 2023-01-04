@@ -27,7 +27,8 @@
 
 ## Kõik kursusel käsitletavad teemad
 
-- Viidata kõikidel õppeaines käsitletavatele teemadele
+-  [Tekst](/Teemad/tekst.md)
+-  [Akadeemiline tekst](/Teemad/akadeemilineTekst.md)
 
 ## Kõik kursuse loengud
 
