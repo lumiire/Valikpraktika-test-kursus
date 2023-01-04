@@ -10,7 +10,7 @@
 
 ## Loengu teemad
 
-- [Tekst](/teemad/tekst.md)
+- [Tekst](/Teemad/tekst.md)
 
 ## Valikuline: Kasutatavad tehnoloogiad
 
