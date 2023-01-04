@@ -2,7 +2,7 @@
 
 ### Renida Lumiste
 
-### Arvestus
+### Õppeaine kontrollvorm Arvestus
 
 ## Õppeaine hindamismudel
 
