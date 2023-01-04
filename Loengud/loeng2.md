@@ -10,7 +10,7 @@
 
 ## Loengu teemad
 
-- [Akadeemiline tekst](/teemad/akadeemilineteskt.md)
+- [Akadeemiline tekst](/Teemad/akadeemilineteskt.md)
 
 ## Valikuline: Kasutatavad tehnoloogiad
 
