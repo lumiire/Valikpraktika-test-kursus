@@ -1,6 +1,6 @@
 # Valikpraktika test kursus
 
-### Renida Lumiste
+### Õppejõud Renida Lumiste
 
 ### Õppeaine kontrollvorm Arvestus
 
