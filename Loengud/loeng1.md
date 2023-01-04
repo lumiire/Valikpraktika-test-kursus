@@ -21,5 +21,4 @@
 - siia lisada harjutused, mida käsitletakse loengu jooksul
 
 ## Kodutöö
-
-- siin linkida/refereerida loengu alusel kodutöö harjutusele
+- [Esimne kodutöö](/Harjutused/harjutus1.md)
