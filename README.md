@@ -15,7 +15,7 @@
 
 ## Õppeaine eesmärgid
 
-- Eesmärgiks on panna üliõpilane oskama kirjutama tekste.
+- Eesmärgiks on panna üliõpilane oskama kirjutama akadeemilisi tekste.
 
 ## Õpiväljundid
 
@@ -35,7 +35,7 @@
 - Viidata õppeaines kasutatavatele tehnoloogiatele ning tööriistadele
 - Luua lingid, mis suunavad vaja minevatele lähtematerjalidele
 
-## Eksami või Arvestuse kirjeldus
+## Arvestuse kirjeldus
 
-- Kirjeldada, kuidas eksam või arvestus hakkab välja nägema
-- Välja tuua eeldused eksamile või arvestusele pääsemisele
+- Arvestus toimub loominulise ettekande näol. Mille käigus esitletaks enda koostatud akadeemilisi tekste.
+- Eeldused arvestusele pääsemisele on 90% kohalolek loengutes.
