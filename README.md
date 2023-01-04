@@ -6,7 +6,10 @@
 
 ## Õppeaine hindamismudel
 
-- Lisada tabelina õppeaine hindamismudel
+| Hinne  | Osakaal |
+| ---------- | ---------- |
+| A     | 51-100%     |
+| MA     | alla 50%     |
 
 ## Õppeaine lühikirjeldus
 
