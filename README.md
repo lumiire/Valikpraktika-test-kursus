@@ -40,3 +40,4 @@
 
 - Arvestus toimub loominulise ettekande näol. Mille käigus esitletaks enda koostatud akadeemilisi tekste.
 - Eeldused arvestusele pääsemisele on 90% kohalolek loengutes.
+![pildi nimi](/Pildid/akadeemilineTekst1.jpg)
